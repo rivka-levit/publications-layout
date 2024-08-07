@@ -4,7 +4,7 @@
 
 <br>
 
-![Science Publications Website](/utils/publications_ps.png)
+![Science Publications Website](/utils/publ_screen.png)
 
 <br>
 
